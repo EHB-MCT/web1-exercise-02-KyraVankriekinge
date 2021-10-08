@@ -1,0 +1,37 @@
+body{
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px;
+}
+
+h1{
+    color: rgb(223, 86, 86);
+}
+
+p{
+    margin-bottom: 15px;
+    color: rgb(117, 113, 121);
+}
+
+.grijs {
+    color: #939598;
+}
+
+#knop{
+    background-color: rgb(223, 86, 86);
+    text-decoration: none;
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 40px;
+}
+
+#knop:hover{
+    background-color: rgb(230, 111, 111);
+}
+
+img{
+    border-radius: 15px;
+}
